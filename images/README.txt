@@ -1,0 +1,1 @@
+Place your own photos here. Use black-and-white images to match the editorial portfolio design. Replace image-slot placeholder blocks with <img src='images/your-photo.jpg' alt='Description'> in the relevant HTML page.

@@ -1,0 +1,18 @@
+IMD318 EDITORIAL PORTFOLIO TEMPLATE
+Owner: [Your Name]
+
+This is an original multi-page HTML/CSS/JavaScript starter template inspired by the visual reference supplied by the student: monochrome editorial layout, oversized serif typography, small uppercase metadata, photo-led panels and an asymmetric portfolio grid.
+
+HOW TO USE
+1. Extract the ZIP file.
+2. Open index.html in a browser to preview.
+3. Edit HTML files using Notepad, Notepad++ or another text-based editor.
+4. Replace all [square bracket] placeholders with your own confirmed details.
+5. Add your own images to the images folder. Use black-and-white photos for the closest visual match.
+6. Keep the folder structure unchanged.
+
+PAGES INCLUDED
+Home, About Me, Journey, Skills, Projects and Contact.
+
+IMD318 NOTE
+Check your lecturer's complete rubric. Add any additional required elements/pages such as Family, image map, lists, tables, multimedia, local/anchor/external links and reflection before final submission. Upload the finished website to GitHub Pages if required.
